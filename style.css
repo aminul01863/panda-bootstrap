@@ -1,0 +1,38 @@
+.money {
+    color: #fc267b;
+    font-size: 41px
+}
+
+.main-button {
+    color: white;
+    background-color: #fc267b;
+    border: 1px solid #fc267b;
+    width: 168px;
+    height: 52px;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 36px;
+}
+
+.bag {
+    background-color: #fc267b;
+}
+
+.watch {
+    background-color: #FF9C35;
+}
+
+.shoes {
+    background-color: #4289FF
+}
+
+.submit-button {
+    color: white;
+    background-color: #fc267b;
+    border: 1px solid #fc267b;
+    border-radius: 5px;
+    width: 90px;
+    height: 40px;
+}
